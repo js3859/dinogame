@@ -1,0 +1,18 @@
+.container{
+    width:500px;
+    height:500px;
+    background-color: rgb(222, 222, 213);
+    padding:10px;
+}
+.title{
+    width:480px;
+    height:50px;
+    background-color: rgb(149, 176, 176);
+    padding:10px;
+    font-size: 25px;
+    text-align: center;
+}
+.canvas{
+    width:500px;
+    height:400px;
+}
